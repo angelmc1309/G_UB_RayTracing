@@ -1,5 +1,8 @@
 # RayTracingGiVD 2020-21
 
+This repository contains the code developed as a part of the subject of Computer Graphics in Universitat de Barcelona.
+
+
 ## Equip: C02
 - Angel Morales Carrasco         NIUB 20150546
 - Eric Duque Martin              NIUB 20150443
