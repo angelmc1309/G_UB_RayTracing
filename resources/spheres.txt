@@ -1,0 +1,8 @@
+sphere, 0.0, 0.0, -0.5, 0.25, Metal
+sphere, 0.0, 0.25, 0.5, 0.4, Metal
+plane, 1.0, 0.0, 0.0, -13.25, 1.0, 1.0, 0.0,europa.png,Metal
+plane, 1.0, 0.0, 0.0, 1.0, 0.0, 1.0, 0.0,europa.png,Metal
+plane, 3.0, -13.0, 0.0, 13.0, 0.0, 1.0, 1.0,europa.png,Metal
+plane, 0.0, 1.0, 0.0, 0.5, 0.0, 1.0, 1.0,europa.png,Metal
+plane, 0.0, 0.0, 1.0, 1.0, 1.0, 1.0, 1.0,europa.png,Metal
+plane, 0.0, 0.0, 1.0, -1.0, 1.0, 1.0, 0.0,europa.png,Metal

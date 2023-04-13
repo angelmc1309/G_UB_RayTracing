@@ -1,0 +1,10 @@
+renderType,ONLINE
+lookFrom, -4, 5, 10
+lookAt, 0, 0, 0
+vup, 0, 1, 0
+vfov, 20.0
+aspectRatio, 2
+pixelsX, 600
+output,resultat.ppm
+globalLight, 0.1, 0.1, 0.1
+light,POINTLIGHT, 0.3, 0.3, 0.3, 0.7, 0.7, 0.7, 1.0, 1.0, 1.0, 0.5, 0.0, 0.01, 2, 8, 10

@@ -1,0 +1,5 @@
+dataType,REALDATA
+limitsMonVirtual, -5, 5, 0, 2, -5, 5
+limitsMonReal, 2.16118, 2.16556, 41.40400, 41.40686
+base,plane, 0.0, 1.0, 0.0, 0.0,://resources/mapZoom.png
+prop, 1, 3000, 8000,sphere,COLOR_MAP_TYPE_PLASMA
